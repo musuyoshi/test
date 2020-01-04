@@ -1,0 +1,9 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -0,6 +0,7 @@
+ <html lang=�hja�h>
+ <head>����̓e�X�g�y�[�W</head>
+ <body>���C���R���e���c
++<header>�w�b�_�[</header>
+ <h1>�y�@���o��h1�@�z&nbsp; ����̓e�X�g&nbsp;</h1>
+ <hr>
+ 
